@@ -1,0 +1,29 @@
+/*
+    global: typography.scss
+*/
+
+.montserrat {
+	&--semi-bold {
+		font-family: 'Montserrat', sans-serif;
+		font-style: normal;
+		font-weight: 600;
+	}
+}
+
+.nunito {
+	&--regular {
+		font-family: 'Nunito', sans-serif;
+		font-style: normal;
+		font-weight: 400;
+	}
+	&--semi-bold {
+		font-family: 'Nunito', sans-serif;
+		font-style: normal;
+		font-weight: 600;
+	}
+	&--light {
+		font-family: 'Nunito', sans-serif;
+		font-style: normal;
+		font-weight: 300;
+	}
+}
