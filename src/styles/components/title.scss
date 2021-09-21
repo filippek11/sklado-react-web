@@ -1,0 +1,18 @@
+/*
+    component: title.scss
+*/
+
+.title {
+	font-family: sans-serif;
+	font-family: Montserrat;
+
+	&--primary {
+		font-size: 54px;
+		color: $color-black;
+	}
+
+	&--secondary {
+		font-size: 24px;
+		color: $color-black;
+	}
+}
