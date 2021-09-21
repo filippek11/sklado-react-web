@@ -1,0 +1,56 @@
+/*
+    utils: icons.scss
+*/
+
+.icon {
+    vertical-align: middle;
+    display: inline-block;
+
+    &--arr-left {
+        content: url(/assets/svg/arr-left.svg);
+    }
+
+    &--arr-right-long {
+        content: url(/assets/svg/arr-right-long.svg);
+    }
+
+    &--boxes {
+        content: url(/assets/svg/boxes.svg);
+    }
+
+    &--edit {
+        content: url(/assets/svg/edit.svg);
+    }
+
+    &--logo {
+        content: url(/assets/svg/logo.svg);
+    }
+
+    &--logo-sm {
+        content: url(/assets/svg/logo-sm.svg);
+    }
+
+    &--package {
+        content: url(/assets/svg/package.svg);
+    }
+
+    &--plus {
+        content: url(/assets/svg/plus.svg);
+    }
+
+    &--search {
+        content: url(/assets/svg/search.svg);
+    }
+
+    &--sort {
+        content: url(/assets/svg/sort.svg);
+    }
+
+    &--sort-active {
+        content: url(/assets/svg/sort-active.svg);
+    }
+
+    &--trash {
+        content: url(/assets/svg/trash.svg);
+    }
+}
