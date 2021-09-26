@@ -1,0 +1,18 @@
+/*
+    component: layouts.scss
+*/
+
+.l {
+	display: flex;
+
+	&__sidebar {
+		padding-top: 24px;
+		width: 256px;
+		background-color: $color-secondary;
+		height: 100vh;
+	}
+
+	&__content {
+		width: calc(100% - 256px);
+	}
+}

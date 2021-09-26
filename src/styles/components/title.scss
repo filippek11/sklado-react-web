@@ -5,14 +5,17 @@
 .title {
 	font-family: sans-serif;
 	font-family: Montserrat;
+	color: $color-black;
 
 	&--primary {
 		font-size: 54px;
-		color: $color-black;
 	}
 
 	&--secondary {
 		font-size: 24px;
-		color: $color-black;
+	}
+
+	&--terc {
+		font-size: 32px;
 	}
 }
