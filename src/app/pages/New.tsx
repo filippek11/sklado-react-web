@@ -14,7 +14,7 @@ const New = () => {
             </div>
             <div className="l__content">
                 <div className="title title--terc m--top-32 m--left-40">Add product</div>
-                <div className="m--top-40 m--left-46 nunito--semi-bold nunito--14"><i className="icon icon--arr-left m--right-16" onClick={redirectProducts}></i>Back</div>
+                <div className="m--top-40 m--left-46 nunito--semi-bold nunito--14"><i className="icon icon--arr-left cur--pointer m--right-16" onClick={redirectProducts}></i>Back</div>
                 <div className="form  m--top-24 m--left-40">
                     <div className="nunito--semi-bold nunito--18 m--top-24 m--left-24">Add new product</div>
                     
